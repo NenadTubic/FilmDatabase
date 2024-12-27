@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "6769dec096d6bc4036000d05"
+  },
+  "film_title": "The Shawshank Redemption",
+  "reviewer": "John Doe",
+  "rating": 5,
+  "comment": "An inspiring story of hope and friendship.",
+  "film_details": {
+    "year": 1994,
+    "genre": "Drama",
+    "director": "Frank Darabont"
+  }
+},
+{
+  "_id": {
+    "$oid": "6769dec096d6bc4036000d06"
+  },
+  "film_title": "The Godfather",
+  "reviewer": "Jane Smith",
+  "rating": 5,
+  "comment": "A masterpiece of crime cinema.",
+  "film_details": {
+    "year": 1972,
+    "genre": "Crime",
+    "director": "Francis Ford Coppola"
+  }
+},
+{
+  "_id": {
+    "$oid": "6769dec096d6bc4036000d07"
+  },
+  "film_title": "The Dark Knight",
+  "reviewer": "Alice Johnson",
+  "rating": 4,
+  "comment": "A thrilling and dark superhero film.",
+  "film_details": {
+    "year": 2008,
+    "genre": "Action",
+    "director": "Christopher Nolan"
+  }
+},
+{
+  "_id": {
+    "$oid": "6769dec096d6bc4036000d08"
+  },
+  "film_title": "Pulp Fiction",
+  "reviewer": "Bob Brown",
+  "rating": 4.5,
+  "comment": "A unique and gripping storytelling experience.",
+  "film_details": {
+    "year": 1994,
+    "genre": "Crime",
+    "director": "Quentin Tarantino"
+  }
+},
+{
+  "_id": {
+    "$oid": "6769dec096d6bc4036000d09"
+  },
+  "film_title": "Forrest Gump",
+  "reviewer": "Sarah Lee",
+  "rating": 5,
+  "comment": "A touching and heartwarming film.",
+  "film_details": {
+    "year": 1994,
+    "genre": "Drama",
+    "director": "Robert Zemeckis"
+  }
+}]

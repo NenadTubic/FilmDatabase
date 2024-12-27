@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "6769de7096d6bc4036000cfb"
+  },
+  "name": "Frank Darabont",
+  "birthdate": "1959-01-28",
+  "nationality": "American",
+  "notable_works": [
+    {
+      "title": "The Shawshank Redemption",
+      "year": 1994
+    },
+    {
+      "title": "The Green Mile",
+      "year": 1999
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769de7096d6bc4036000cfc"
+  },
+  "name": "Francis Ford Coppola",
+  "birthdate": "1939-04-07",
+  "nationality": "American",
+  "notable_works": [
+    {
+      "title": "The Godfather",
+      "year": 1972
+    },
+    {
+      "title": "Apocalypse Now",
+      "year": 1979
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769de7096d6bc4036000cfd"
+  },
+  "name": "Christopher Nolan",
+  "birthdate": "1970-07-30",
+  "nationality": "British",
+  "notable_works": [
+    {
+      "title": "The Dark Knight",
+      "year": 2008
+    },
+    {
+      "title": "Inception",
+      "year": 2010
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769de7096d6bc4036000cfe"
+  },
+  "name": "Quentin Tarantino",
+  "birthdate": "1963-03-27",
+  "nationality": "American",
+  "notable_works": [
+    {
+      "title": "Pulp Fiction",
+      "year": 1994
+    },
+    {
+      "title": "Kill Bill",
+      "year": 2003
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769de7096d6bc4036000cff"
+  },
+  "name": "Robert Zemeckis",
+  "birthdate": "1952-05-14",
+  "nationality": "American",
+  "notable_works": [
+    {
+      "title": "Forrest Gump",
+      "year": 1994
+    },
+    {
+      "title": "Back to the Future",
+      "year": 1985
+    }
+  ]
+}]

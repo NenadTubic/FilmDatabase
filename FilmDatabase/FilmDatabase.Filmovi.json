@@ -1,0 +1,160 @@
+[{
+  "_id": {
+    "$oid": "6769d5c296d6bc4036000cf6"
+  },
+  "title": "The Shawshank Redemption",
+  "year": 1994,
+  "director": "Frank Darabont",
+  "genre": "Drama",
+  "actors": [
+    {
+      "name": "Tim Robbins",
+      "role": "Andy Dufresne"
+    },
+    {
+      "name": "Morgan Freeman",
+      "role": "Ellis Boyd 'Red' Redding"
+    }
+  ],
+  "rating": 9.3,
+  "reviews": [
+    {
+      "reviewer": "John Doe",
+      "rating": 5,
+      "comment": "An inspiring story of hope and friendship."
+    },
+    {
+      "reviewer": "Jane Doe",
+      "rating": 4.8,
+      "comment": "A beautifully crafted film."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769d5c296d6bc4036000cf7"
+  },
+  "title": "The Godfather",
+  "year": 1972,
+  "director": "Francis Ford Coppola",
+  "genre": "Crime",
+  "actors": [
+    {
+      "name": "Marlon Brando",
+      "role": "Vito Corleone"
+    },
+    {
+      "name": "Al Pacino",
+      "role": "Michael Corleone"
+    }
+  ],
+  "rating": 9.2,
+  "reviews": [
+    {
+      "reviewer": "Jane Smith",
+      "rating": 5,
+      "comment": "A masterpiece of crime cinema."
+    },
+    {
+      "reviewer": "John Smith",
+      "rating": 4.9,
+      "comment": "An epic tale of family and power."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769d5c296d6bc4036000cf8"
+  },
+  "title": "The Dark Knight",
+  "year": 2008,
+  "director": "Christopher Nolan",
+  "genre": "Action",
+  "actors": [
+    {
+      "name": "Christian Bale",
+      "role": "Bruce Wayne / Batman"
+    },
+    {
+      "name": "Heath Ledger",
+      "role": "Joker"
+    }
+  ],
+  "rating": 9,
+  "reviews": [
+    {
+      "reviewer": "Alice Johnson",
+      "rating": 4,
+      "comment": "A thrilling and dark superhero film."
+    },
+    {
+      "reviewer": "Bob Johnson",
+      "rating": 4.5,
+      "comment": "An intense and gripping movie."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769d5c296d6bc4036000cf9"
+  },
+  "title": "Pulp Fiction",
+  "year": 1994,
+  "director": "Quentin Tarantino",
+  "genre": "Crime",
+  "actors": [
+    {
+      "name": "John Travolta",
+      "role": "Vincent Vega"
+    },
+    {
+      "name": "Samuel L. Jackson",
+      "role": "Jules Winnfield"
+    }
+  ],
+  "rating": 8.9,
+  "reviews": [
+    {
+      "reviewer": "Bob Brown",
+      "rating": 4.5,
+      "comment": "A unique and gripping storytelling experience."
+    },
+    {
+      "reviewer": "Alice Brown",
+      "rating": 4.7,
+      "comment": "An iconic and stylish film."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769d5c296d6bc4036000cfa"
+  },
+  "title": "Forrest Gump",
+  "year": 1994,
+  "director": "Robert Zemeckis",
+  "genre": "Drama",
+  "actors": [
+    {
+      "name": "Tom Hanks",
+      "role": "Forrest Gump"
+    },
+    {
+      "name": "Robin Wright",
+      "role": "Jenny Curran"
+    }
+  ],
+  "rating": 8.8,
+  "reviews": [
+    {
+      "reviewer": "Sarah Lee",
+      "rating": 5,
+      "comment": "A touching and heartwarming film."
+    },
+    {
+      "reviewer": "John Lee",
+      "rating": 4.9,
+      "comment": "An inspiring story of love and life."
+    }
+  ]
+}]

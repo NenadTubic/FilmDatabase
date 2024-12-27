@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "6769de9f96d6bc4036000d00"
+  },
+  "name": "Tim Robbins",
+  "birthdate": "1958-10-16",
+  "nationality": "American",
+  "notable_works": [
+    {
+      "title": "The Shawshank Redemption",
+      "role": "Andy Dufresne"
+    },
+    {
+      "title": "Mystic River",
+      "role": "Dave Boyle"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769de9f96d6bc4036000d01"
+  },
+  "name": "Morgan Freeman",
+  "birthdate": "1937-06-01",
+  "nationality": "American",
+  "notable_works": [
+    {
+      "title": "The Shawshank Redemption",
+      "role": "Ellis Boyd 'Red' Redding"
+    },
+    {
+      "title": "Se7en",
+      "role": "Detective Lt. William Somerset"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769de9f96d6bc4036000d02"
+  },
+  "name": "Marlon Brando",
+  "birthdate": "1924-04-03",
+  "nationality": "American",
+  "notable_works": [
+    {
+      "title": "The Godfather",
+      "role": "Vito Corleone"
+    },
+    {
+      "title": "A Streetcar Named Desire",
+      "role": "Stanley Kowalski"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769de9f96d6bc4036000d03"
+  },
+  "name": "Al Pacino",
+  "birthdate": "1940-04-25",
+  "nationality": "American",
+  "notable_works": [
+    {
+      "title": "The Godfather",
+      "role": "Michael Corleone"
+    },
+    {
+      "title": "Scarface",
+      "role": "Tony Montana"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769de9f96d6bc4036000d04"
+  },
+  "name": "Christian Bale",
+  "birthdate": "1974-01-30",
+  "nationality": "British",
+  "notable_works": [
+    {
+      "title": "The Dark Knight",
+      "role": "Bruce Wayne / Batman"
+    },
+    {
+      "title": "American Psycho",
+      "role": "Patrick Bateman"
+    }
+  ]
+}]

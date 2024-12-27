@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "6769deda96d6bc4036000d0a"
+  },
+  "name": "Drama",
+  "description": "Films focusing on realistic narratives and characters.",
+  "films": [
+    {
+      "title": "The Shawshank Redemption",
+      "year": 1994
+    },
+    {
+      "title": "Forrest Gump",
+      "year": 1994
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769deda96d6bc4036000d0b"
+  },
+  "name": "Crime",
+  "description": "Films centered around crime and criminal activities.",
+  "films": [
+    {
+      "title": "The Godfather",
+      "year": 1972
+    },
+    {
+      "title": "Pulp Fiction",
+      "year": 1994
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769deda96d6bc4036000d0c"
+  },
+  "name": "Action",
+  "description": "Films with intense physical activities and stunts.",
+  "films": [
+    {
+      "title": "The Dark Knight",
+      "year": 2008
+    },
+    {
+      "title": "Mad Max: Fury Road",
+      "year": 2015
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769deda96d6bc4036000d0d"
+  },
+  "name": "Comedy",
+  "description": "Films intended to make the audience laugh.",
+  "films": [
+    {
+      "title": "Superbad",
+      "year": 2007
+    },
+    {
+      "title": "The Big Lebowski",
+      "year": 1998
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6769deda96d6bc4036000d0e"
+  },
+  "name": "Horror",
+  "description": "Films designed to frighten and invoke our hidden worst fears.",
+  "films": [
+    {
+      "title": "The Exorcist",
+      "year": 1973
+    },
+    {
+      "title": "Get Out",
+      "year": 2017
+    }
+  ]
+}]
